@@ -1,5 +1,7 @@
 # pet-care-record-service__009
 
+基于 Go 实现的宠物管理后端服务，提供主人、宠物档案、就诊记录、疫苗接种与回访等业务管理能力。
+
 ## 构建镜像
 
 请从**仓库根目录**执行；`benzhi.Dockerfile`、`build_benzhi_docker.sh`、`BENZHI_README.md` 均固定在该目录：
